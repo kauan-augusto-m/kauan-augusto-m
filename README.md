@@ -10,7 +10,7 @@ Atualmente, estou focando em construir uma base sólida e explorar diferentes á
 
 ###  Experiência e Projetos de Estudo
 Sempre tento aplicar o que estudo em projetos práticos. Alguns dos meus trabalhos e vivências incluem:
-*   **Orion Aero Design (Extensão Universitária):** Atuei na equipe de computação do projeto, onde pude colaborar no desenvolvimento do site institucional utilizando JavaScript e React.
+*   **Orion Aerospace Design (Extensão Universitária):** Atuei na equipe de computação do projeto, onde pude colaborar no desenvolvimento do site institucional utilizando JavaScript e React.
 *   **[Detector de Exoplanetas](https://github.com/kauan-augusto-m/exoplanet-detector-ml):** Um projeto prático onde utilizei Python e noções básicas de Machine Learning para analisar dados espaciais, criando a interface visual com Streamlit.
 *   **[Simulador de Autômato](https://github.com/samu-ribas/ocean-automata):** Um projeto acadêmico construído em equipe, utilizando Python para aplicar conceitos de lógica computacional no controle de robôs de limpeza oceânica.
 
